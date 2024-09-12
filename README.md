@@ -48,7 +48,7 @@
 
 <ol>
     <li><strong>Run the program</strong>:
-        <pre><code>python inventory_management.py</code></pre>
+        <pre><code>python Inventory-Management-System.py</code></pre>
     </li>
     <li><strong>Input Details</strong>:
         <ul>
