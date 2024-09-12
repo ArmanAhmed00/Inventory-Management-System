@@ -27,10 +27,10 @@
 
 <ol>
     <li><strong>Clone the repository</strong>:
-        <pre><code>git clone https://github.com/ArmanAhmed00/inventory-management-system.git</code></pre>
+        <pre><code>git clone https://github.com/ArmanAhmed00/Inventory-Management-System.git</code></pre>
     </li>
     <li><strong>Navigate to the project directory</strong>:
-        <pre><code>cd inventory-management-system</code></pre>
+        <pre><code>cd Inventory-Management-System</code></pre>
     </li>
     <li><strong>Prepare the <code>Inventory.txt</code> file</strong>:
         <ul>
